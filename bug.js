@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't updating correctly in Realtime Database using the `update()` method.  The structure was deeply nested, and while the client-side code indicated successful updates, the database remained unchanged. I suspected a problem with the data structure or how updates were being applied.
